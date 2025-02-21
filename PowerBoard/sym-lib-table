@@ -1,0 +1,8 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "Load Cell")(type "KiCad")(uri "C:/Users/Garrett/Documents/Robotics Power Board/Power_Board/SymbolLib/LoadCell/2024-11-10_18-41-14.kicad_sym")(options "")(descr ""))
+  (lib (name "Pico")(type "KiCad")(uri "C:/Users/garre/Documents/Robotics Power Board/Power_Board/SymbolLib/RP-Pico Libraries/MCU_RaspberryPi_and_Boards.kicad_sym")(options "")(descr ""))
+  (lib (name "100A_Con")(type "KiCad")(uri "C:/Users/garre/Documents/Robotics Power Board/Power_Board/SymbolLib/100A_Con/100A_Con_Symbol.kicad_sym")(options " pwr_sym_only")(descr ""))
+  (lib (name "100A_Con_Symbol")(type "KiCad")(uri "C:/Users/garre/Documents/Robotics Power Board/Power_Board/SymbolLib/100A_Con/100A_Con_Symbol.kicad_sym")(options "")(descr ""))
+  (lib (name "xt60m")(type "KiCad")(uri "C:/Users/Garrett/Documents/Robotics Power Board/Power_Board/SymbolLib/XT60m/XT60PW-M.kicad_sym")(options "")(descr ""))
+)

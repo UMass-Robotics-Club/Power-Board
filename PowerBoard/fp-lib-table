@@ -1,0 +1,7 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "pico")(type "KiCad")(uri "C:/Users/Garrett/Documents/Robotics Power Board/Power_Board/SymbolLib/RP-Pico Libraries/MCU_RaspberryPi_and_Boards.pretty")(options "")(descr ""))
+  (lib (name "LoadCell")(type "KiCad")(uri "C:/Users/Garrett/Documents/Robotics Power Board/Power_Board/SymbolLib/LoadCell/footprints.pretty")(options "")(descr ""))
+  (lib (name "Connector_100A")(type "KiCad")(uri "C:/Users/Garrett/Documents/Robotics Power Board/Power_Board/SymbolLib/100A_Con/footprints.pretty")(options "")(descr ""))
+  (lib (name "xt60")(type "KiCad")(uri "C:/Users/Garrett/Documents/Robotics Power Board/Power_Board/SymbolLib/XT60m")(options "")(descr ""))
+)
